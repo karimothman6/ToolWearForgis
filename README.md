@@ -49,8 +49,8 @@ Where:
 - `T` = tool life (time until wear limit)
 - `n, C` = constants for the tool/material combination
 
-<img width="1112" height="656" alt="image" src="https://github.com/user-attachments/assets/05fdce32-cf27-4c38-b99e-544d122dba29" />
-<img width="1043" height="714" alt="image" src="https://github.com/user-attachments/assets/4eccef3c-6768-41a5-967b-dba4c7f9f43e" />
+<img width="556" height="328" alt="image" src="https://github.com/user-attachments/assets/05fdce32-cf27-4c38-b99e-544d122dba29" />
+<img width="521" height="357" alt="image" src="https://github.com/user-attachments/assets/4eccef3c-6768-41a5-967b-dba4c7f9f43e" />
 
 
 This tells us: **wear is deterministic, not random.** If we know the cutting conditions and can track degradation, we can predict remaining life.
