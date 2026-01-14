@@ -20,7 +20,7 @@ But here's the catch: **you can't see wear while the tool is cutting.**
 | Method | Problem |
 |--------|---------|
 | Fixed schedules | Wastes 20-30% of tool life (conservative) or risks failure (aggressive) |
-| Force sensors | $10,000+ per machine, requires downtime to install |
+| Force sensors | costs much per machine at large scale, requires downtime to install |
 | Vision systems | Can't see the cutting edge during operation |
 
 ### Our Approach
