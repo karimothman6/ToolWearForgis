@@ -49,6 +49,9 @@ Where:
 - `T` = tool life (time until wear limit)
 - `n, C` = constants for the tool/material combination
 
+<img width="1112" height="656" alt="image" src="https://github.com/user-attachments/assets/05fdce32-cf27-4c38-b99e-544d122dba29" />
+
+
 This tells us: **wear is deterministic, not random.** If we know the cutting conditions and can track degradation, we can predict remaining life.
 
 ### The Torque-Force Connection
