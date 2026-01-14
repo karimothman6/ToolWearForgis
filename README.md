@@ -1,6 +1,6 @@
 # 🏭 Tool Wear Prediction from Motor Torque
 
-> **Predicting the invisible from the cheap** — Using motor current (free) to estimate tool wear (expensive to measure)
+> **Predicting the invisible from the cheap** — Using motor torque (free in most of cases) to estimate tool wear (expensive to measure)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Forgis/blob/main/Tool_Wear_Forgis.ipynb)
 
